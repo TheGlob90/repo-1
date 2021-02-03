@@ -1,5 +1,2 @@
-<<<<<<< HEAD
 Random change
-=======
-Hi my name is
->>>>>>> new
+
